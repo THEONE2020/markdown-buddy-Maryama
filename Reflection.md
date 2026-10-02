@@ -1,3 +1,4 @@
+> **AI Assistance Declaration:** I used ChatGPT (GPT-5.6 Sol) to assist with organizing and refining my reflection responses. Prompts used are documented in `Appendix_AI_Prompts.md`. I reviewed the final responses to ensure they accurately reflect my own experience completing the assignment. All final calculations are done by myself. I am responsible for the accuracy and originality of this work.
 # Reflection
 
 Question 1:
