@@ -1,0 +1,37 @@
+---
+title: "Synthetic Sales Data Analysis"
+author: "Maryama"
+date: "2026-10-02"
+output: html_document
+---
+# Purpose
+
+This R Markdown document explains an R script that analyzes a synthetic sales dataset. The script creates sales data for four regions, displays the data, and summarizes total sales by region.
+
+## Inputs
+
+The script uses a synthetic dataset with two variables:
+
+- **Region:** North, South, East, and West
+- **Sales:** Sales values for each region
+
+```{r}
+sales_data <- data.frame(
+  Region = c("North", "South", "East", "West"),
+  Sales = c(12000, 15000, 11000, 17000)
+)
+
+print(sales_data)
+```
+
+## Outputs
+
+The script calculates total sales for each region using the `aggregate()` function.
+
+```{r}
+sales_by_region <- aggregate(Sales ~ Region, data = sales_data, sum)
+
+print(sales_by_region)
+```
+
+The output shows the total sales for the North, South, East, and West regions.
