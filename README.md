@@ -93,3 +93,17 @@ This project demonstrates how R can be used to organize, summarize, and analyze 
 ## License
 
 This project is intended for educational purposes. The synthetic dataset may be used and modified for learning and practice.
+## AI Assistance Disclosure
+
+I used ChatGPT to assist with planning, formatting, and improving the documentation for this project.
+
+### Main Prompts Used
+- "Explain what sections a good GitHub README for an R data analysis project should include."
+- "Revise the sections list so it’s concise and uses Markdown headers and bullet formatting."
+- "Check the Markdown syntax for correctness and readability."
+- "Here’s a summary of my R project: This R project analyzes a synthetic sales dataset containing sales information from different regions. The project uses R to summarize sales by region and examine differences in sales performance. Generate a professional README.md file using Markdown."
+- "Add sections for Installation, Example Code, and License. Keep tone concise and professional."
+- "Review the Markdown for syntax errors and suggest 2 improvements for clarity."
+
+### Changes and Verification
+I reviewed the AI-generated content and made sure it matched the requirements of the assignment. I compared the README structure with the tidyverse/dplyr GitHub repository and previewed the final README on GitHub to verify that the headings, lists, and code blocks rendered correctly.
