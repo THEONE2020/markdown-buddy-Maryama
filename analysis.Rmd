@@ -4,6 +4,8 @@ author: "Maryama"
 date: "2026-10-02"
 output: html_document
 ---
+
+> **AI Assistance Declaration:** I used ChatGPT (GPT-5.6 Sol) for planning, formatting, and improving the R Markdown documentation. Prompts used are documented in `Appendix_AI_Prompts.md`. I verified the output by knitting the document in Posit Cloud and checking that the headings, R code, and results rendered correctly. All final calculations are done by myself. I am responsible for the accuracy and originality of this work.
 # Purpose
 
 This R Markdown document explains an R script that analyzes a synthetic sales dataset. The script creates sales data for four regions, displays the data, and summarizes total sales by region.
