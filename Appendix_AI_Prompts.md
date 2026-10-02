@@ -1,3 +1,4 @@
+> **AI Assistance Declaration:** I used ChatGPT (GPT-5.6 Sol) to assist with organizing this appendix and documenting the AI prompts and key responses used during the assignment. I reviewed the appendix to ensure the prompts accurately reflect my AI use. All final calculations are done by myself. I am responsible for the accuracy and originality of this work.
 # Appendix – AI Prompts and Key Responses
 ## Step 1 – README Structure
 
