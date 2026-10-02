@@ -1,3 +1,4 @@
+> **AI Assistance Declaration:** I used ChatGPT (GPT-5.6 Sol) for planning, formatting, and improving the Markdown documentation. Prompts used are documented in `Appendix_AI_Prompts.md`. I verified outputs by reviewing the Markdown, comparing the README structure with the tidyverse/dplyr repository, and previewing the final formatting on GitHub. All final calculations are done by myself. I am responsible for the accuracy and originality of this work.
 # Regional Sales Analysis in R
 
 ## Project Overview
